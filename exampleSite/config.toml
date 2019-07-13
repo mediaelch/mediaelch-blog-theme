@@ -1,7 +1,7 @@
 baseurl = "http://www.example.com"
 title = "johndoe"
 
-theme = "hugo-coder"
+theme = "mediaelch-coder"
 
 languagecode = "en"
 defaultcontentlanguage = "en"
@@ -29,7 +29,7 @@ disqusShortname = "yourdiscussshortname"
     hideCopyright = false
 
     # Git Commit in Footer, uncomment the line below to enable it.
-    commit = "https://github.com/luizdepra/hugo-coder/tree/"
+    commit = "https://github.com/mediaelch/mediaelch-blog-theme/tree/"
 
     rtl = false
 
@@ -41,7 +41,7 @@ disqusShortname = "yourdiscussshortname"
 
     # Custom CSS
     custom_css = []
-    
+
     # Custom JS
     custom_js = []
 
